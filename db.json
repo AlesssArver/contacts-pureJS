@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Namemorgenshert@gmail.com",
+      "phone": "+7-(999)-999-99-99"
+    },
+    {
+      "id": 2,
+      "name": "Alisher",
+      "surname": "Surname",
+      "email": "alishermorgehert@gmail.com",
+      "phone": "+7-(999)-999-99-99"
+    },
+    {
+      "name": "Yura",
+      "surname": "Plisetsky",
+      "email": "yuraplisetsky@gm.com",
+      "id": 3
+    }
+  ]
+}
